@@ -30,6 +30,15 @@
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath9">
                 <path d="M25 83 L94 83 L94 106 L25 106 L25 83 Z"/>
             </clipPath>
+            <clipPath clipPathUnits="userSpaceOnUse" id="clipPath10">
+                <path d="M179 389 L281 389 L281 491 L179 491 L179 389 Z"/>
+            </clipPath>
+            <clipPath clipPathUnits="userSpaceOnUse" id="clipPath11">
+                <path d="M211 407 L248 407 L248 441 L211 441 L211 407 Z"/>
+            </clipPath>
+            <clipPath clipPathUnits="userSpaceOnUse" id="clipPath12">
+                <path d="M194 463 L265 463 L265 486 L194 486 L194 463 Z"/>
+            </clipPath>
         </defs>
         <g font-size="18" fill="white" font-family="'Segoe UI'" stroke-linejoin="round" stroke="white" stroke-width="0" stroke-miterlimit="0">
             <rect x="423" y="192" clip-path="url(#clipPath1)" width="100" height="100" stroke="none"/>
@@ -46,6 +55,10 @@
             <rect x="10" y="10" clip-path="url(#clipPath7)" fill="none" width="99" height="99"/>
             <image x="50" y="36" clip-path="url(#clipPath8)" width="16" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACCUlEQVR42sWTTWgT&#13;&#10;QRTHf8lmEzRtE5CCH7QeeqtQwW+sIIIWoVAUL6KXkoOXYvGgh3rw4k3QowiC0CBF&#13;&#10;RKHVHmy1aIJQlLYKamnBkLYhhwaTmmyyH9l019lOCeaiQg8+eLMzszu/+b/39vlc&#13;&#10;12Ur5meLFvCGZDLpjr0Yp1Ip//NBT/jlSxcl4NXEJN++fsGuVrG7OrGPHmL7w/hf&#13;&#10;IW/fJSQgt5pDVQLog/3ofWdBgIqnT4oXBVjOwkKK5o8zNGnFBkAhX5AAv99HMBSk&#13;&#10;Nf6USiaLfqCLlpevwbbBtEA3UW2LzJUYe56PEijLUC3LkoCNZChyGkl+2HC7dQe5&#13;&#10;gX5Yd4QiAaoY+IMhshfOEZ5K4MzOCqG2BLiOK1Q0FkQVN0cfPWnYS/WcIpxaZmV+&#13;&#10;nkipRCQalYByWUPXdYJ728ge3I/V10PTg2EZp2ljpldQFxYJTU5R81RuAushpNNL&#13;&#10;FNfW+NnZQe78GZygSveJYzKkTV8aHKJZHPjdNE2TAE0roRtCwcgzdo9P0Hb9Gplb&#13;&#10;t7GOH5YF9/LQvpNiby/azJzI0XsU8b0/oEhASZAsw5BY8fx+4ybV7iN03L9Xv23u&#13;&#10;R15IzbBLzL1ibhsdw8GVAEVRMEyThr54k2CxfV99GRbecvcO+ccjqJ8+o/tElddr&#13;&#10;shfi8WHxH4QExPijrw5cpTY9LddCaSwWw/ffu/EXgeD5LRhrmLMAAAAASUVORK5C&#13;&#10;YII=" xlink:type="simple" xlink:actuate="onLoad" height="16" preserveAspectRatio="none" xlink:show="embed"/>
             <text x="26" font-size="16" y="102" clip-path="url(#clipPath9)" fill="black" stroke="none" xml:space="preserve">gateway1</text>
+            <rect x="180" y="390" clip-path="url(#clipPath10)" fill="white" width="100" height="100" stroke="none"/>
+            <rect x="180" y="390" clip-path="url(#clipPath10)" fill="none" width="99" height="99"/>
+            <image x="212" y="408" clip-path="url(#clipPath11)" width="32" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADg0lEQVR42u1WS28T&#13;&#10;VxT+5ulHxlZsJ7EdYwEBQhKJTVGERCzxD5BgQbPsjj/AT4C/UikLdgjEYwNiQbuI&#13;&#10;mhaVSnFCTGidBvKwPY49Hj96zpnJ2ElBsEo2vtbVvb5zHt/5zjl3Run1ejjNoeKU&#13;&#10;xxDAEMAQgH64+W1lpbe+tnYiTjOZDObn52EYhiIAVldXe8+ePkWxWDwRABMTaXS7&#13;&#10;PRQKCx4Df7x9i6WlpUBA0z1iVEWFqirQNM0791eVVlVRoNBUVY1WX9HfaKoa2FFp&#13;&#10;r5GMqqm+TYXZRjKZ6ANYWfmd6DARi1miZJomDN2ArmtMEwz+T6t3rkPnM5kmyegE&#13;&#10;zDM+OjqKeDwuTsPhMKLRKCKRSDBZVifwj588wYdSqV8Dn7a3yZgX9ezMjAi2Wi1y&#13;&#10;ZKJWraBarcKls8r+vhh33Tbsuo226+Lg4CBgLpudxK3bt/BIfYHL3Yu4hh8w9fxn&#13;&#10;OBevoHH1Bh6+LuL6bAZTU1P45c2bfhe0Wk5A76XpaTKUFRDj4+NIpVLI5XJIp9Py&#13;&#10;nCPniNl5dGRE9A51QyFTVmfMxd8jWx6olIn45z/xqdJEsZ7EX+WGpK3b7fYBNJpN&#13;&#10;McyjWq3Btm2iLEpCHYmwXj9Ao+HJsCLLcxpajiM6nU5Hikr3a+f9dgl2xfbArP4q&#13;&#10;qxUx8M/muueU6qrjAxANp+lI7jvtNpKJBBxipFwuIxwKSd739vaQoHMGEY/HYFHk&#13;&#10;u47HmkOpCorVB/BT7w5SZkL27wp3oeTOIWJquHdzGhMJC/8SC93OAICW25KicclY&#13;&#10;6UOJ9hFYloU2AeJ0nMnnJfczs3NS4ezosPg0Tfe7QQ3qYUxJIkw/HvXcBSlAHq69&#13;&#10;g63GHpaXl4W1AABHkEln5GDn887Rq9JvKW4jds6Fyblmx4f59wAQrRRV3bYDeba7&#13;&#10;u7srAcoY+PgxTKMPgI1MTmZhhsJoUn6Pj699NfUoj22ag09NStugTmpsbNBQsD3C&#13;&#10;APd7JpPFq1cvcXlmVqr/SyNPqVhbX5e74Pjg6LlbNj9uUq8ffcW06VmUitqyRqS2&#13;&#10;mMHyVrkPIBaLIUsMXF9YkIuE5/HouQArlX1KVZoK0/gfAM5/za5hnCIOh0NH9Llz&#13;&#10;uEs46nz+jKTMrtX6AM6eOy8OCoXCN+n/no/Yb8mU6Bbk7goALP54B4uLi5ibmzuR&#13;&#10;l9HGxgbuP3jgvT6Gn+VDAEMAQwCnDeA/y6lPBx6ew4QAAAAASUVORK5CYII=" xlink:type="simple" xlink:actuate="onLoad" height="32" preserveAspectRatio="none" xlink:show="embed"/>
+            <text x="195" font-size="16" y="482" clip-path="url(#clipPath12)" fill="black" stroke="none" xml:space="preserve">resource2</text>
         </g>
     </g>
 </svg>
